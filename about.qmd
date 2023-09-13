@@ -1,0 +1,7 @@
+---
+title: "About"
+---
+
+About This Website:
+- for future use in UBC MDS
+- for courses & personal portfolio

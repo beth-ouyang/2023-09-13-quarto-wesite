@@ -1,0 +1,5 @@
+---
+title: "Quarto Website Index Page"
+---
+
+This is Beth's website for future use in UBC MDS.
